@@ -1,4 +1,9 @@
-# OI Tracker v2.0
+# OI Tracker v2.0 (Showcase)
+
+> **⚠️ Note: Demo & Showcase Only**  
+> This repository is strictly for showcasing the UI/UX and architecture of the Nexus OI dashboard. The original source code is maintained in a separate private repository: [oi-chain_NexusOI](https://github.com/nandhanreddy-p/oi-chain_NexusOI).  
+>   
+> For discussions, collaborations, or to request access to the source code repository, please contact me at: **pulagamsainandanreddy@gmail.com**.
 
 OI Tracker is a highly responsive, real-time Options Open Interest (OI) tracking dashboard built for the Indian stock market (NIFTY, BANKNIFTY, FINNIFTY) using the Fyers API v3. It tracks options data, futures prices, and order book depth to provide traders with actionable, institutional-grade insights into market positioning.
 
