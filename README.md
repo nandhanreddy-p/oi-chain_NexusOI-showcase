@@ -38,8 +38,8 @@ The project features a lightweight Flask backend and an ultra-modern, reactive W
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/fyers-oi-chain.git
-   cd fyers-oi-chain
+   git clone https://github.com/nandhanreddy-p/oi-chain_NexusOI.git
+   cd oi-chain_NexusOI
    ```
 
 2. **Install dependencies:**
